@@ -24,7 +24,7 @@ async function contribute(say) {
 
 async function helpWithWebsite(say) {
   return await say(
-    `You clicked *Help with the Website*\n first step is getting to know our community! You can connect with us in any of the ways described in our Participate page here: https://chaoss.community/participate.
+    `You clicked *Help with the Website*\n first step is getting to know our community! You can connect with us in any of the ways described in our Participate page here: https://chaoss.community/kb-getting-started/.
     `
   );
 }
